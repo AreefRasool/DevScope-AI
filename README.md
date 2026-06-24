@@ -122,8 +122,8 @@ Metrics:
 
 ---
 
-## Author
+## 👨‍💻 Author
 
-Areef Rasool
+**Areef Rasool**
 
 Built with Python, Gradio and GitHub API.
