@@ -135,6 +135,7 @@ Metrics:
 ## 👤 Author
 
 **Areef Rasool**
+
 BSAI Student | AI, Development & Networking Enthusiast
 
 Built with Python, Gradio, and the GitHub REST API.
