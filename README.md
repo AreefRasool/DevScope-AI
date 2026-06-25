@@ -122,20 +122,6 @@ Metrics:
 
 ---
 
-## 📂 Project Structure
-
-```
-.
-├── app.py                # Main Gradio application
-├── requirements.txt       # Python dependencies
-├── dashboard.png          # Screenshot — main dashboard
-├── analysis.png           # Screenshot — portfolio analysis view
-├── charts.png             # Screenshot — analytics charts
-└── README.md
-```
-
----
-
 ## 📌 Future Improvements
 
 - 🤖 AI-powered career recommendations based on profile gaps
