@@ -126,4 +126,7 @@ Metrics:
 
 **Areef Rasool**
 
+BSAI Student | AI, Computer Vision & Networking Enthusiast
+
+
 Built with Python, Gradio and GitHub API.
